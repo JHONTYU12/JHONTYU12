@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXk2igMsZGCYH657XqgKtIMJ6jhNdGiyA3A&s" height="33" alt="python logo"  />
+  <img src="" height="33" alt="react logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
   <img width="13" />
